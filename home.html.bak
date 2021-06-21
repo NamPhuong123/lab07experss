@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>ATN SALES MANAGEMENT SYSTEM</title>
+ </head>
+ <body>
+	<h1 style="color:pink;"><center> ATN SALES MANAGEMENT SYSTEM</center></h1>
+	<div><center>
+		<a href="addproduct"><button style="height:50px; margin:50px;">ADD A PRODUCT</button></a>
+	</div
+	<div><center>
+		<a href="addproduct"><button style="height:50px; margin:0px ">ADD A CUSTOMER</button></a>
+	</div>
+	<div><center>
+		<a href=""><button style="height:50px; margin:50px;">CHECK-OUT/INVOICE</button></a>
+	</div>
+ </body><center>	
+</html>
